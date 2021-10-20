@@ -1,5 +1,6 @@
 # importar librerias de flash 
 # from types import MethodDescriptorType
+import joblib
 from flask import Flask, request
 import pickle
 import numpy as np
